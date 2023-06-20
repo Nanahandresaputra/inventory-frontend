@@ -2,8 +2,14 @@
 
 ##### Clone repository
 
-```terminal
-$ git clone https://github.com/Nanahandresaputra/inventory-frontend.git
+```bash
+    $ git clone https://github.com/Nanahandresaputra/inventory-frontend.git
+```
+
+##### install a package and it's dependencies.
+
+```bash
+    $ npm install
 ```
 
 ##### Run Aplication backend
@@ -17,6 +23,6 @@ backend documentation link
 
 ##### Run aplication frontend
 
-```terminal
- npm run dev
+```bash
+    $ npm run dev
 ```
